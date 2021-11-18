@@ -63,3 +63,5 @@ function createPost(title, body, image) {
   image.value = ''
 
 }
+
+function doNothing() { }
